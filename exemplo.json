@@ -1,0 +1,5 @@
+{
+	"unidade_producao": ["mil toneladas"],
+	"produto_derivado": ["oleo de soja"],
+	"coef_produto_derivado": [0.5]
+}
